@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:telota="http://www.telota.de" telota:doctype="minute">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>13. Ministerratsprotokoll</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Collaboratory for Writing and Research on Culture (CWRC https://cwrc.ca) and Linked Editing Academic Framework (LEAF https://leaf-vre.org).</publisher>
+        <availability>
+          <licence>Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/)</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This template was created by members of CWRC and LEAF.</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?work_annotation_20251127151440254",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-11-27T14:14:40.254Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/nakohdo",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Frank Ralf"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?work_annotation_20251127151440254#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.9.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?work_annotation_20251127151440254#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "https://d-nb.info/gnd/4751704-9",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.9.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?person_annotation_20251127151154696",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-11-27T14:11:54.696Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/nakohdo",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Frank Ralf"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?person_annotation_20251127151154696#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.9.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?person_annotation_20251127151154696#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://d-nb.info/gnd/121181758",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.9.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?person_annotation_20251127153331607",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-11-27T14:33:31.607Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/nakohdo",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Frank Ralf"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?person_annotation_20251127153331607#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.9.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?person_annotation_20251127153331607#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q2572183",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.9.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?place_annotation_20251127153504352",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-11-27T14:35:04.352Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/nakohdo",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Frank Ralf"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?place_annotation_20251127153504352#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.9.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?place_annotation_20251127153504352#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://sws.geonames.org/2847618",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.9.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:mediumCertainty"
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData>
+    <encodingDesc>
+      <projectDesc>
+        <p>This template is made available for use with the LEAF-Writer semantic editor.</p>
+      </projectDesc>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2025-06-04" who="diane_jakacki">Revised blank template for use with LEAF-Writer editor.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p><title>Stellungnahme zu dem Artikel der „Rhein-Zeitung” über die Bekämpfung der Wildschweinplage</title></p>
+        <p>Der Ministerpräsident erläutert zunächst den Sachverhalt unter Bezug auf den Artikel, der vor Weihnachten in der "<title key="Rhein-Zeitung" ref="https://d-nb.info/gnd/4751704-9" cert="high" level="j">Rhein-Zeitung</title>” erschienen ist und in dem der deutschen Verwaltung schwere Vorwürfe wegen der mangelhaften Bekämpfung der Wildschweinplage gemacht werden. Der Ministerpräsident <persName key="Wilhelm Bökenkrüger" ref="http://www.wikidata.org/entity/Q2572183" cert="high" type="real">Bökenkrüger</persName> hat damals sofort eine eingehende Untersuchung dieser Angelegenheit veranlaßt und verliest nunmehr die Stellungnahme der Forstabteilung. Abschrift dieses Berichtes ist als Anlage beigefügt. Aufgrund dieser eingehenden Sachdarstellung erachtet der Ministerrat einstimmig die in der Presse gegen die Verwaltung erhobenen Beschuldigungen für nicht berechtigt. Angesichts dieses Sachverhalts bedauert der Ministerrat, daß durch das Schreiben des Herrn Gouverneurs vom 29.1.47 –
+          Section Production Végétale Bi. Nr. 30 – erneut der gleiche Vorwurf erhoben und der deutschen Verwaltung schlechter Wille vorgeworfen wird mit dem Zusatz, daß diese allein für diesen Stand der Dinge verantwortlich ist. Der Ministerrat beschließt einstimmig im Hinblick auf das Ansehen der deutschen Verwaltung und ihre Verantwortlichkeit gegenüber der Bevölkerung, den Herrn Generalgouverneur auf diesen Sachverhalt aufmerksam zu machen. Die Bekämpfung der Wildschweinplage läßt auch heute noch in <placeName key="Rheinland-Pfalz" ref="https://sws.geonames.org/2847618" cert="high">Rheinland-Pfalz<precision match="@ref" precision="medium"/></placeName>  viel zu wünschen übrig . Nach der Mitteilung der pfälzischen Minister liegen dort die Verhältnisse insofern günstiger, als französische Offiziere gemeinsam mit deutschen Jägern oder Forstbeamten, denen sie Gewehre und Munition für die Jagd stellen, Treibjagden auf Schwarzwild veranstalten. Solche Treibjagden finden zwar auch in
+          Rheinland-Hessen-Nassau statt. Die von dem Herrn Gouverneur seit langem gewünschte planmäßige Bekämpfung des Schwarzwildes scheitert aber daran, daß auch heute noch weder Waffen noch Munition zur Verfügung stehen, woran die deutsche Verwaltung nicht schuld ist . Der Ministerrat benutzt aber die Gelegenheit, den Herrn Generalgouverneur nochmals dringend zu bitten, im Interesse der Volksernährung, für die die Entwicklung der Wildschweinplage katastrophale Ausmaße annimmt, dieser Frage auch weiterhin die größte Aufmerksamkeit zu widmen.</p>
+        <p>Die Punkte 1, 2 und 3 der anliegenden Tagesordnung wurden wegen Abwesenheit des Justizministers Dr. <persName key="Süsterhenn, Adolf" ref="https://d-nb.info/gnd/121181758" cert="high" type="real">Süsterhenn</persName> vertagt bis zur nächsten Ministerratssitzung am Dienstag, den 11.2.1947.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

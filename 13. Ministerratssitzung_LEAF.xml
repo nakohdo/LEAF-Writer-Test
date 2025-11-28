@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="minute" xml:id="protokoll1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>13. Ministerratssitzung </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>Landesarchivverwaltung Rheinland-Pfalz</orgName>
+          <address>
+            <addrLine>Karmeliterstraße 1-3</addrLine>
+            <addrLine>56068 Koblenz</addrLine>
+            <country>Deutschland</country>
+          </address>
+          <ref>https://https://lav.rlp.de</ref>
+          <ref>https://ministerrat-protokolle.lav.rlp.de</ref>
+          <email>Post@lav.rlp.de</email>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc n="source:original">
+        <listObject>
+          <object type="typoscript">
+            <objectIdentifier>
+              <institution>Landeshauptarchiv Koblenz</institution>
+              <idno type="shelfmark">Signatur</idno>
+            </objectIdentifier>
+          </object>
+        </listObject>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <!-- Text -->
+  <text type="minute">
+    <front>
+      <!--  -->
+      <head><label>13.</label>Ministerratssitzung am Freitag, den 7.2.1947 <hi type="comment"
+          rend="sup"><ptr target="#note1"/></hi></head>
+      <div type="creation">
+        <dateline n="type:start">
+          <name type="label">Beginn:</name>
+          <time type="start" when="09:00:00"> Uhr</time>
+        </dateline>
+        <dateline n="type:end">
+          <name type="label">Schluss: </name>
+          <time type="end" when="11:30:00"> Uhr </time>
+        </dateline>
+        <dateline n="type:place">
+          <name type="label">Ort:</name>
+          <placeName type="building">keine Angabe</placeName>
+        </dateline>
+      </div>
+      <div type="list_participants">
+        <listPerson>
+          <head>Anwesend:</head>
+          <person role="Ministerpräsident">
+            <persName>Dr. Boden</persName>
+          </person>
+          <person role="Minister">
+            <persName>Feller</persName>
+          </person>
+          <person role="Minister">
+            <persName>Dr. Haberer</persName>
+          </person>
+          <person role="Minister">
+            <persName>Junglas</persName>
+          </person>
+          <person role="Minister">
+            <persName>Röhle</persName>
+          </person>
+          <person role="Minister">
+            <persName>Steffan</persName>
+          </person>
+          <person role="Minister">
+            <persName>Stübinger</persName>
+          </person>
+          <person role="Ministerialdirektor">
+            <persName>Dr. Rick</persName>
+          </person>
+        </listPerson>
+      </div>
+      <p>Es fehlten die Minister Dr. Lotz und Dr. Süsterhenn.</p>
+      <div type="agenda">
+        <list type="agenda" subtype="ordinary">
+          <head>Tagesordnung:</head>
+          <item><ref><label>1.</label>
+              <title>Landesverordnung über die Entnazifizierung </title></ref></item>
+          <item><ref><label>2.</label>
+              <title>Landesverordnung über die Wiedergutmachung nationalsozialistischen
+                Unrechts</title></ref></item>
+          <item><ref><label>3.</label>
+              <title>Landesverordnung über die Beseitigung nationalsozialistischen Unrechts in der
+                Strafrechtspflege</title></ref></item>
+          <item><ref><label>4.</label>
+              <title>Stellungnahme zu dem Artikel der „Rhein-Zeitung” über die Bekämpfung der
+                Wildschweinplage</title></ref></item>
+          <item><ref><label>5.</label>
+              <title>Personal- und Materialbeschaffungsfragen</title></ref><list type="agenda"
+              subtype="sub_item">
+              <item><ref><label>A</label>
+                  <title>Unterredung mit Kommandant Stoebner</title></ref></item>
+            </list></item>
+          <item><ref><label>6.</label>
+              <title>Verschiedenes (Protokolländerung; Wirtschaftskredite; Eingaben an die Beratende
+                Landesversammlung)</title></ref></item>
+        </list>
+      </div>
+    </front>
+    <body>
+      <p>Die Punkte 1, 2 und 3 der anliegenden Tagesordnung wurden wegen Abwesenheit des
+        Justizministers Dr. Süsterhenn vertagt bis zur nächsten Ministerratssitzung am Dienstag, den
+        11.2.1947, nachmittag 2 Uhr <hi type="comment" rend="sup"><ptr target="#note2"/></hi>.</p>
+      <div type="agenda_item" subtype="ordinary" xml:id="top_twt_phl_5fc">
+        <head>4. Stellungnahme zu dem Artikel der „Rhein-Zeitung” über die Bekämpfung der
+          Wildschweinplage</head>
+        <p>Der Ministerpräsident erläutert zunächst den Sachverhalt unter Bezug auf den Artikel, der
+          vor Weihnachten in der "Rhein-Zeitung” erschienen ist und in dem der deutschen Verwaltung
+          schwere Vorwürfe wegen der mangelhaften Bekämpfung der Wildschweinplage gemacht werden <hi
+            type="comment" rend="sup"><ptr target="#note3"/></hi>. Der Ministerpräsident hat damals
+          sofort eine eingehende Untersuchung dieser Angelegenheit veranlaßt und verliest nunmehr
+          die Stellungnahme der Forstabteilung. Abschrift dieses Berichtes ist als Anlage beigefügt
+            <hi type="comment" rend="sup"><ptr target="#note4"/></hi>. Aufgrund dieser eingehenden
+          Sachdarstellung erachtet der Ministerrat einstimmig die in der Presse gegen die Verwaltung
+          erhobenen Beschuldigungen für nicht berechtigt. Angesichts dieses Sachverhalts bedauert
+          der Ministerrat, daß durch das Schreiben des Herrn Gouverneurs vom 29.1.47 – Section
+          Production Végétale Bi. Nr. 30 – erneut der gleiche Vorwurf erhoben und der deutschen
+          Verwaltung schlechter Wille vorgeworfen wird mit dem Zusatz, daß diese allein für diesen
+          Stand der Dinge verantwortlich ist <hi type="comment" rend="sup"><ptr target="#note5"
+            /></hi>. Der Ministerrat beschließt einstimmig im Hinblick auf das Ansehen der deutschen
+          Verwaltung und ihre Verantwortlichkeit gegenüber der Bevölkerung, den Herrn
+          Generalgouverneur auf diesen Sachverhalt aufmerksam zu machen. Die Bekämpfung der
+          Wildschweinplage läßt auch heute noch in Rheinland-Pfalz <hi type="comment" rend="sup"
+              ><ptr target="#note6"/></hi> viel zu wünschen übrig <hi type="comment" rend="sup"><ptr
+              target="#note7"/></hi>. Nach der Mitteilung der pfälzischen Minister liegen dort die
+          Verhältnisse insofern günstiger, als französische Offiziere gemeinsam mit deutschen Jägern
+          oder Forstbeamten, denen sie Gewehre und Munition für die Jagd stellen, Treibjagden auf
+          Schwarzwild veranstalten <hi type="comment" rend="sup"><ptr target="#note8"/></hi>. Solche
+          Treibjagden finden zwar auch in Rheinland-Hessen-Nassau statt. Die von dem Herrn
+          Gouverneur seit langem gewünschte planmäßige Bekämpfung des Schwarzwildes scheitert aber
+          daran, daß auch heute noch weder Waffen noch Munition zur Verfügung stehen, woran die
+          deutsche Verwaltung nicht schuld ist <hi type="comment" rend="sup"><ptr target="#note9"
+            /></hi>. Der Ministerrat benutzt aber die Gelegenheit, den Herrn Generalgouverneur
+          nochmals dringend zu bitten, im Interesse der Volksernährung, für die die Entwicklung der
+          Wildschweinplage katastrophale Ausmaße annimmt, dieser Frage auch weiterhin die größte
+          Aufmerksamkeit zu widmen <hi type="comment" rend="sup"><ptr target="#note10"/></hi>.</p>
+      </div>
+      <note type="comment" xml:id="note1" n="1"> Durchschlag in Best. 860 Nr. 9601 und (korrig., mit
+        Anstreichungen und Randvermerken) in Nr. 8186, Nr. 4535, Best. 700,155 Nr. 62, S. 99-105,
+        und Best. 700,177 Nr. 654, S. 64-67. Anlagen: 1. TO; 2. Aktennotiz zur Schwarzwildbekämpfung
+        (Best. 860 Nr. 9601, Nr. 4535 und Nr. 8186; Best. 700,155 Nr. 62, S. 83-85 und S. 95-97;
+        Best. 700,177 Nr. 654, S. 68-70). </note>
+      <note type="comment" xml:id="note2" n="2"> TOP 1 wurde erst in der 15. MRS am 12.2.1947, TOP
+        3, behandelt, TOP 2 wurde in der 47. MRS am 10.10.1947, TOP 5, unter der Überschrift „LVO
+        über die Versorgung der Opfer des Nationalsozialismus“ behandelt und beschlossen; zu TOP 3
+        vgl. 14. MRS am 11.2.1947, TOP 7. </note>
+      <note type="comment" xml:id="note3" n="3"> Vgl. RZ, Weihnachten 1946, S. 1 f. Unter der
+        Überschrift „Mehr Verantwortung” wurde der Landesregierung vorgeworfen, eine Anweisung des
+        GenGouv vom 21.11.1946, sechs Gruppen von erfahrenen deutschen Jägern zusammenzustellen, die
+        in sechs Bezirken von Rheinland-Hessen-Nassau mit der Jagd beauftragt werden sollten, mehr
+        als vier Wochen verschleppt zu haben, obgleich Jagdgewehre und Munition zur Verfügung
+        gestanden hätten. </note>
+      <note type="comment" xml:id="note4" n="4"> Siehe oben Anm. 1 (Anlage Nr. 2 ). </note>
+      <note type="comment" xml:id="note5" n="5"> Das Schreiben konnte nicht nachgewiesen werden. Der
+        Ernährungs- und Versorgungsausschuss der BLV hatte sich bereits auf seiner Sitzung am
+        20.12.1946 mit der Wildschadensproblematik befasst und mit Schreiben vom 23.12.1946 den
+        MinPräs aufgefordert, mit der Militärregierung dahingehend zu verhandeln, dass die
+        Abschussquote drastisch erhöht und dadurch gleichzeitig die Fleischversorgung verbessert
+        würde (Brommer, Landesversammlung, S. 104-109). </note>
+      <note type="comment" xml:id="note6" n="6"> In allen früheren Versionen korrigiert aus:
+        „Rheinland-Hessen-Nassau“. </note>
+      <note type="comment" xml:id="note7" n="7"> Vgl. Best. 860 Nr. 432, Nr. 436, Nr. 1006, S. 243,
+        Nr. 1008, S. 449, Nr. 1948 und Nr. 1951, S. 61; Best. 940 Nr. 581-582, Nr. 590 und Nr. 601.
+        Vgl. auch die entsprechende Hinweise des LR von Daun an Minister Stübinger (Best. 940 Nr.
+        607, S. 253 ff.), vor allem den Auszug aus seinem Lagebericht für die Monate November 1946
+        bis Januar 1947 (ebd., S. 263). </note>
+      <note type="comment" xml:id="note8" n="8"> Allerdings erwies sich der Erfolg z.T. als äußerst
+        dürftig, da es die Franzosen eher auf den Abschuss von Rotwild abgesehen hatten (ebd., S.
+        265). Vgl. allgemein zur Jagdregelung in den Besatzungsjagden und Treibjagden Best. 940 Nr.
+        591, Nr. 600 und Nr. 601. </note>
+      <note type="comment" xml:id="note9" n="9"> Vgl. Schreiben des Oberforstmeisters vom 14.2.1947
+        an den MinPräs betr. Genehmigung der Teilnahme von Ministern und Abteilungsleitern der
+        Ministerien an den Treibjagden durch den GenGouv: „Die Frage der Beschaffung der Waffen ist
+        z. Zt. noch nicht geklärt.“ (Best. 860 Nr. 1150, S. 123). </note>
+      <note type="comment" xml:id="note10" n="10"> Vgl. Schreiben von MinPräs Boden an den GenGouv
+        vom 14.2.1947 (Best. 860 Nr. 1006, S. 243-245). In der BLV wurde die Schwarzwildplage am
+        25.3.1947 nochmals thematisiert und insbes. die an die Militärregierung weitergeleiteten
+        Beschwerden und Vorschläge von Minister Stübinger erläutert (BLV, Drucks. Nr. 14, S. f.;
+        vgl. Best. 860 Nr. 21, S. 205). </note>
+      <div type="agenda_item" subtype="ordinary" xml:id="top_f5z_shl_5fc">
+        <head>5. Personal- und Materialbeschaffungsfragen</head>
+        <p>Es wurde einstimmig vom Ministerrat beschlossen, das Gebäude der Landesregierung (früher
+          Lehrerinnen-Bildungsanstalt) der Verwaltung durch das Innenministerium zu unterstellen <hi
+            type="comment" rend="sup"><ptr target="#note11"/></hi>. Der Ministerpräsident gibt
+          Kenntnis von einer Vorlage des Justizministers über die Einteilung seines Ministeriums und
+          die Vorschläge für die Besetzung der vorgesehenen vier Abteilungen und empfiehlt den
+          übrigen Ministern, ähnlich zu verfahren, also zunächst die Ministerien organisatorisch
+          aufzubauen und dann die Benennung der einzelnen Herren vorzunehmen <hi type="comment"
+            rend="sup"><ptr target="#note12"/></hi>. </p>
+        <p>Der Ministerpräsident kündigte ferner auf Grund eines ihm von der Militärregierung
+          mitgeteilten Einzelfalles den Erlaß einer Rundverfügung an, in der er nochmals auf die
+          Vorschrift der Militärregierung, wonach das Überwechseln der Beamten in andere Zonen der
+          Genehmigung der Militärregierung bedarf, aufmerksam machen will <hi type="comment"
+            rend="sup"><ptr target="#note13"/></hi> und ersucht die Herren Minister, für die
+          Bekanntgabe dieser Rundverfügung an alle Beamte Sorge zu tragen. Er bat ferner darum, ihm
+          baldmöglichst die Stellenbesetzung der einzelnen Ministerien vorzulegen und jede
+          Einberufung bzw. Einstellung höherer Beamter zuerst ihm vorzulegen <hi type="comment"
+            rend="sup"><ptr target="#note14"/></hi>. Zwischen dem Ministerpräsidenten und den
+          Ministern Steffan und Dr. Haberer entspann sich alsdann eine längere Debatte über den
+          Stellenplan und die erforderliche Mitwirkung des Finanzministers. Zur Frage der
+          Beförderung von Beamten wies Ministerialdirektor Dr. Rick darauf hin, daß in jedem Falle
+          auch von den Herren, die aus der Pfalz kämen, Fragebogen und Bereinigungsbescheinigung
+          vorgelegt werden müssen.</p>
+        <p>Minister Röhle regt eine einheitliche Regelung der Arbeitszeit an Samstagen für die
+          außerhalb wohnenden Angestellten an, der allgemein zugestimmt wird <hi type="comment"
+            rend="sup"><ptr target="#note15"/></hi>. Die Bearbeitung der Personalangelegenheiten
+          soll bis zur Bildung der endgültigen Regierung beim Innenministerium verbleiben <hi
+            type="comment" rend="sup"><ptr target="#note16"/></hi>. </p>
+        <p>Minister Feller beschwert sich über die Nichtberücksichtigung seiner Vorschläge auf
+          Benennung einzelner Herren seiner Abteilung, worauf ihm sowohl vom Ministerpräsidenten als
+          auch von den Ministern Röhle und Dr. Haberer in einer längeren Aussprache
+          auseinandergesetzt wird, daß dies lediglich auf die zu langsame Bearbeitung seitens der
+          Militärregierung zurückzuführen sei. Der Ministerpräsident betont dabei, daß er Wert
+          darauf lege, daß die von ihm stets anerkannten berechtigten Ansprüche der Parteien sich
+          nicht auf einzelne Ministerien konzentrieren sollten <hi type="comment" rend="sup"><ptr
+              target="#note17"/></hi>, sondern durch Fühlungnahme der Herren Minister untereinander
+          bei den verschiedenen Ministerien bei den Stellenbesetzungen Berücksichtigung fänden <hi
+            type="comment" rend="sup"><ptr target="#note18"/></hi>. Eine Zeitungsnotiz im Mainzer
+          Anzeiger <hi type="comment" rend="sup"><ptr target="#note19"/></hi> gibt dem Ministerrat
+          Veranlassung, zur Frage der Vertretung der Landesregierung, des Ministerpräsidenten und
+          der Minister bei besonderen Gelegenheiten und Veranstaltungen Stellung zu nehmen. Es
+          herrschte Einmütigkeit darüber, daß die Vertretung der Landesregierung und des
+          Ministerpräsidenten nur kraft besonderen Auftrags des betreffenden Ministers zum Ausdruck
+          gebracht werden darf <hi type="comment" rend="sup"><ptr target="#note20"/></hi>. </p>
+        <p>Minister Dr. Haberer kommt dann auf die allgemeine Materialknappheit zu sprechen und
+          schlägt vor, ein Zentralmaterialbeschaffungsamt beim Landwirtschaftsamt einzurichten. Es
+          wurde entsprechend beschlossen <hi type="comment" rend="sup"><ptr target="#note21"
+          /></hi>.</p>
+        <note type="comment" xml:id="note11" n="11"> Mit Bleistift und blauem Stift am Rande
+          angestrichen in Best. 860 Nr. 8186. </note>
+        <note type="comment" xml:id="note12" n="12"> Vgl. Best. 860 Nr. 3758. – Diskussion um die
+          Abgrenzung der Ministerien untereinander zuletzt 12. MRS am 31.1.1948, Fortgang 17. MRS am
+          21.2.1947, TOP 2. </note>
+        <note type="comment" xml:id="note13" n="13"> Dienstnote der Militärregierung vom 11.12.1945
+          (Best. 910 Nr. 5035). </note>
+        <note type="comment" xml:id="note14" n="14"> Mit Bleistift und blauem Stift am Rande
+          angestrichen, mit Vermerk „erl[edigt]“ in Best. 860 Nr. 8186. </note>
+        <note type="comment" xml:id="note15" n="15"> Fragezeichen am Rand, doppelte Anstreichung mit
+          Bleistift und blauem Stift in Best. 860 Nr. 8186. Zur Sache vgl. Brommer, Landesregierung,
+          S. 498. </note>
+        <note type="comment" xml:id="note16" n="16"> Vgl. Brommer, Landesregierung, S. 497. </note>
+        <note type="comment" xml:id="note17" n="17"> „Sollten” korr. aus „würden” in Best. 860, Nr,
+          8186, Nr. 4535, S. 55, Best. 700,155 Nr. 62, S. 101 und Best. 700,177 Nr. 654, S. 65. </note>
+        <note type="comment" xml:id="note18" n="18"> Vgl. Brommer, Landesregierung, S. 497 </note>
+        <note type="comment" xml:id="note19" n="19"> Bezug: „Neuer Mainzer Anzeiger“ (NMA). </note>
+        <note type="comment" xml:id="note20" n="20"> Am Rand Vermerk „erl[edigt]“ in Best. 860 Nr.
+          8186. </note>
+        <note type="comment" xml:id="note21" n="21"> Mit Bleistift und blauem Stift am Rande
+          angestrichen in Best. 860 Nr. 8186. Unterlagen dazu konnten nicht ermittelt werden. </note>
+        <div type="agenda_sub_item" xml:id="top_dhs_yhl_5fc" ana="status:draft">
+          <head>A Unterredung mit Kommandant Stoebner</head>
+          <p>Anschließend berichtet Minister Dr. Haberer über seine Unterredung mit Kommandant
+            Stoebner. Er war beauftragt, wegen der Einsetzung von Treuhändern in Anwendung des
+            Gesetzes Nr. 52 <hi type="comment" rend="sup"><ptr target="#note22"/></hi> mit
+            Kommandant Stoebner zu sprechen. Er hat erreicht, daß der verantwortliche französische
+            Offizier jeden Fall, wo das Gesetz Nr. 52 in Frage kommt, dem zuständigen deutschen
+            Ministerium meldet, um das Amt für Vermögensverwaltung in die Lage zu versetzen, die
+            erforderlichen Überwachungsmaßnahmen zu veranlassen. Es sei im übrigen in Baden-Baden
+            ein Gesetz in Vorbereitung zur Übernahme der Treuhänderschaft und der Bestellung von
+            Treuhändern durch die deutschen Behörden. Kommandant Stoebner habe ferner mitgeteilt,
+            daß die Umänderung und Umbesetzung in der französischen Militärregierung abgeschlossen
+            ist und daß die Militärregierung sich aus der direkten Verwaltung zurückziehe und nur
+            noch eine Kontrolle ausübe. In der Unterredung mit Kommandant Stoebner wurde weiter die
+            Ablieferung der Kleintabakernte besprochen, ferner das Betriebsrätegesetz des
+            Kontrollrates <hi type="comment" rend="sup"><ptr target="#note23"/></hi>. Ein weiterer
+            Punkt der Unterhaltung war die schwierige Lage der Sektindustrie <hi type="comment"
+              rend="sup"><ptr target="#note24"/></hi>, wobei Minister Dr. Haberer empfohlen wurde,
+            die Sektindustrie zu veranlassen, praktische Vorschläge zur Überwindung der
+            augenblicklichen Notlage zu machen und diese Vorschläge der Militärregierung vorzulegen.
+            Kommandant Stoebner versprach auch hier einen Erfolg. Die Frage nach Büroräumen für die
+            einzelnen Ministerien wurde von Kommandant Stoebner dahin beantwortet, daß eine
+            leerstehende Kaserne ausfindig gemacht werden soll, die dann nach Rücksprache mit
+            General Koenig der deutschen Verwaltung zur Verfügung gestellt werden könnte.</p>
+          <note type="comment" xml:id="note22" n="22"> Zuletzt 12. MRS vom 31.1.1947, TOP 2. </note>
+          <note type="comment" xml:id="note23" n="23"> Kontrollratsgesetz Nr. 22 vom 10.4.1946
+            (Journal Officiel 1946 Nr. 21, S. 154 f.). Vgl. allgemein Mai, Kontrollrat. </note>
+          <note type="comment" xml:id="note24" n="24"> Vgl. hierzu das Schreiben des Vorsitzenden
+            des Verbandes Deutscher Sektkellereien Christian Kupferberg an den Generaldirektor des
+            Verpflegungsamtes in Baden-Baden vom 29.11.1946 sowie die Aufzeichnung Kupferbergs über
+            eine Unterredung mit Min-Präs Boden am 14.1.1947 (Best. 950 Nr. 15140): Bei der
+            derzeitigen Ausnutzung ihrer Kapazitäten von nur 10% könne die Industrie auf Dauer nicht
+            weiterbestehen und ihre Belegschaft nicht aufrecht erhalten. Über die eigentliche
+            Bedeutung der Sektindustrie im deutschen Wirtschaftsleben (27 Sektkellereien allein in
+            Rheinland-Pfalz) seien die französischen Stellen offenbar entweder nicht unterrichtet
+            oder es müssten Konkurrenzgründe für deren Verhalten ausschlaggebend sein. Kupferberg
+            appellierte an Boden, die von der französischen Dienststelle gewünschte Schließung von
+            zehn Betrieben zu verhindern und dafür zu sorgen, „daß die Bedeutung, die
+            Landesverbundenheit und das ehrbare Streben der Sektindustrie von französischer Seite
+            anerkannt“ werde. </note>
+        </div>
+      </div>
+      <div type="agenda_item" subtype="ordinary" xml:id="top_t3j_d3l_5fc">
+        <head>6. Verschiedenes (Protokolländerung; Wirtschaftskredite; Eingaben an die Beratende
+          Landesversammlung)</head>
+        <p>Auf Vortrag des Ministers Feller wird zu dem Protokoll vom 27.1.47 S. 4 hinter dem Absatz
+          2 folgender Nachsatz eingeschoben:</p>
+        <p>„Der Ministerrat erklärt sich im Hinblick auf die bisher bei der Präsidialregierung
+          erfolgte Aufteilung damit einverstanden, daß auch die Bewirtschaftung der Reifen und des
+          Gummis in der Zentrale durch das Ministerium für Wiederaufbau und Verkehr erfolgt.” <hi
+            type="comment" rend="sup"><ptr target="#note25"/></hi>
+        </p>
+        <p>Auf S. 5 drittletzte Zeile unten muß es heißen: „An sich sei die allgemeine
+          Milchablieferung im Rheinland nicht gut.” <hi type="comment" rend="sup"><ptr
+              target="#note26"/></hi>
+        </p>
+        <p>Minister Dr. Haberer erwähnt dann die Verfügung Nr. 75 der Militärregierung <hi
+            type="comment" rend="sup"><ptr target="#note27"/></hi>, wonach sich Industriebetriebe an
+          das Wirtschaftsministerium wenden sollen, um die finanzielle Basis für die Durchführung
+          von Auflagen zu schaffen. Ein langfristiger Produktionskredit würde nicht verlangt,
+          sondern ein Überbrückungskredit. Es sei notwendig, daß die Landesregierung für die
+          auszuzahlenden Überbrückungskredite eine Garantie übernehme. Diese Summe würde höchstens
+          50 Millionen RM ausmachen. Nach Mitteilung des Ministers Dr. Haberer sind in der Pfalz die
+          Überbrückungskredite zum größten Teil bereits wieder zurückgeflossen. Der
+          Ministerpräsident hat keine Bedenken, dem Herrn Finanzminister die entsprechende
+          Ermächtigung zu geben und ersucht um eine entsprechende Vorlage an den Ministerrat <hi
+            type="comment" rend="sup"><ptr target="#note28"/></hi>. Auf Vortrag des
+          Ministerialdirektor Dr. Rick nahm der Ministerrat dann Stellung zu der Frage über die
+          Behandlung der von den Parteien an den Präsidenten der Beratenden Landesversammlung
+          gerichteten und von diesen der vorläufigen Landesregierung vorgelegten Anträ-ge, Anfragen
+          usw. Es herrscht Einmütigkeit darüber, daß solche Eingaben grundsätzlich schriftlich
+          erledigt und nur dann zu einer Behandlung im Plenum gebracht werden sollen, wenn der
+          Ministerrat dies aufgrund des Art. 25 der Verordnung Nr. 67 <hi type="comment" rend="sup"
+              ><ptr target="#note29"/></hi> beschließt. Demnach ist folgendes Verfahren
+          einzuschlagen:</p>
+        <p>Die von dem Präsidenten der Landesversammlung vorgelegten Eingaben werden dem zuständigen
+          Minister seitens des Staatsministeriums zugeleitet <hi type="comment" rend="sup"><ptr
+              target="#note30"/></hi>. Hält dieser mit Rücksicht auf die Bedeutung eine Behandlung
+          im Plenum für zweckmäßig, so reicht er die Eingabe mit diesem Vorschlag dem
+          Staatsministerium zur Vorlage in der nächsten Ministerratssitzung zurück; hält er eine
+          schriftliche Erledigung für richtig, so macht er dem Staatsministerium die Mitteilung, daß
+          er einen schriftlichen Bescheid zu geben beabsichtige und legt die Eingabe mit seinem
+          Bescheid dem Staatsministerium zur Weiterleitung an den Präsidenten des Landtages wieder
+          vor.</p>
+      </div>
+      <note type="comment" xml:id="note25" n="25"> Vgl. die Wortmeldung Fellers auf der 11. MRS am
+        27.1.1947, TOP 1. Damit wurde die auf der gleichen Sitzung entgegengesetzte Äußerung von
+        Wirtschaftsminister ¬Haberer annulliert. </note>
+      <note type="comment" xml:id="note26" n="26"> Vgl. 11. MRS am 27.1.1947, TOP 2 </note>
+      <note type="comment" xml:id="note27" n="27"> Verfügung Nr. 75 der Militärregierung über die
+        Erteilung von Genehmigungsbescheinigungen (Journal Officiel 1946 Nr. 31, S. 260). </note>
+      <note type="comment" xml:id="note28" n="28"> Vgl. Brommer, Landesregierung, S. 526. – Fortgang
+        15. MRS am 12.2.1947, TOP C. </note>
+      <note type="comment" xml:id="note29" n="29"> Art. 25 der VO Nr. 67 über die Bildung einer
+        Beratenden Versammlung im Rheinland-Pfälzischen Land (Journal Officiel 1946, S. 341-344):
+        „Die Beratende Versammlung nimmt zu den Fragen, mit denen sie von der Provisorischen
+        Regierung befaßt wird, gutachterlich Stellung” (ebd., S. 344). </note>
+      <note type="comment" xml:id="note30" n="30"> Vgl. Best. 860 Nr. 21. Direkt an den MinPräs
+        gerichtete Eingaben dieser Zeit in Nr. 91-94. </note>
+    </body>
+  </text>
+</TEI>
