@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="minute" xml:id="protokoll1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>11. Ministerratssitzung </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>Landesarchivverwaltung Rheinland-Pfalz</orgName>
+          <address>
+            <addrLine>Karmeliterstraße 1-3</addrLine>
+            <addrLine>56068 Koblenz</addrLine>
+            <country>Deutschland</country>
+          </address>
+          <ref>https://https://lav.rlp.de</ref>
+          <ref>https://ministerrat-protokolle.lav.rlp.de</ref>
+          <email>Post@lav.rlp.de</email>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc n="source:original">
+        <listObject>
+          <object type="typoscript">
+            <objectIdentifier>
+              <institution>Landeshauptarchiv Koblenz</institution>
+              <idno type="shelfmark">Signatur</idno>
+            </objectIdentifier>
+          </object>
+        </listObject>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <!-- Text -->
+  <text type="minute">
+    <front>
+      <!--  -->
+      <head><label>11.</label>Ministerratssitzung am Montag, den 27.1.1947 <hi type="comment"
+          rend="sup"><ptr target="#note1"/></hi></head>
+      <!-- Speyer-->
+      <div type="creation">
+        <dateline n="type:start">
+          <name type="label">Beginn:</name>
+          <time type="start" when="10:00:00"> Uhr</time>
+        </dateline>
+        <dateline n="type:end">
+          <name type="label">Schluss: </name>
+          <time type="end" when="16:00:00"> Uhr </time>
+        </dateline>
+        <dateline n="type:place">
+          <name type="label">Ort:</name>
+          <placeName type="building">keine Angabe</placeName>
+        </dateline>
+      </div>
+      <div type="list_participants">
+        <listPerson>
+          <head>Anwesend:</head>
+          <person role="Ministerpräsident">
+            <persName>Dr. Boden</persName>
+          </person>
+          <person role="Minister">
+            <persName>Feller</persName>
+          </person>
+          <person role="Minister">
+            <persName>Dr. Haberer</persName>
+          </person>
+          <person role="Minister">
+            <persName>Junglas</persName>
+          </person>
+          <person role="Minister">
+            <persName>Dr. Lotz</persName>
+          </person>
+          <person role="Minister">
+            <persName>Röhle</persName>
+          </person>
+          <person role="Minister">
+            <persName>Steffan</persName>
+          </person>
+          <person role="Minister">
+            <persName>Stübinger</persName>
+          </person>
+          <person role="Minister">
+            <persName>Dr. Süsterhenn</persName>
+          </person>
+        </listPerson>
+      </div>
+     
+      <div type="agenda">
+        <list type="agenda" subtype="ordinary">
+          <head>Tagesordnung</head>
+          <item><ref><label>A.</label>
+              <title>Unterredung mit der Militärregierung</title></ref></item>
+          <item><ref><label>B.</label>
+              <title>Vertretung der Minister</title></ref><list type="agenda" subtype="sub_item">
+              <item><ref><label>1.</label>
+                  <title>Abgrenzung einzelner Ministerien</title></ref></item>
+            </list></item>
+          <item><ref><label>C.</label>
+              <title>Verwaltung der Pfalz und Verfassungsfrage</title></ref><list type="agenda"
+              subtype="sub_item">
+              <item><ref><label>2.</label>
+                  <title>Stellungnahme zur Ernährungslage</title></ref></item>
+              <item><ref><label>3.</label>
+                  <title>Stellungnahme zur Verfügung Nr. 194 über Errichtung einer höheren
+                    Verwaltungsakademie in Speyer</title></ref></item>
+              <item><ref><label>4.</label>
+                  <title>Festsetzung der Dienstbezüge der Minister, Ministerialdirektoren und
+                    Ministerialdirigenten</title></ref></item>
+              <item><ref><label>5.</label>
+                  <title>Erlass von Landesverordnungen</title></ref></item>
+              <item><ref><label>6.</label>
+                  <title>Errichtung eines Gebäudes für die Landesversammlung von
+                    Rheinland-Pfalz</title></ref></item>
+            </list></item>
+        </list>
+      </div>
+    </front>
+    <body>
+      <div type="agenda_item" subtype="ordinary" xml:id="top_rrr_jyq_rfc">
+        <p>Die auf heute vormittag 10.00 Uhr festgesetzte Ministerratssitzung wurde bei Anwesenheit
+          sämtlicher Minister durch Ministerpräsident Dr. Boden eröffnet, der zunächst als ständige
+          Protokollführerin Fräulein I. Schübbe <hi type="comment" rend="sup"><ptr target="#note2"
+            /></hi> durch Handschlag an Eides statt auf strengste Geheimhaltung aller Verhandlungen
+          des Ministerrats verpflichtete.</p>
+        <head>A. Unterredung mit der Militärregierung</head>
+        <p>Der Ministerpräsident berichtete zunächst über seine Unterredung vom 25.1. mit dem
+          Generalgouverneur Hettier de Boislambert und dem Generaladministrator Laffon <hi
+            type="comment" rend="sup"><ptr target="#note3"/></hi>; insbesondere erwähnt er die
+          Rechtsanordnungen, die von dem Generaladministrateur gewünscht werden und die sich in der
+          Hauptsache auf juristisches Gebiet beziehen <hi type="comment" rend="sup"><ptr
+              target="#note4"/></hi>. Die Militärregierung drängt darauf, daß die Bereinigung in
+          positive Gesetzesform gebracht werde. Insbesondere soll die Durchsiebung der Leute, die
+          sich heute noch in den deutschen Gefangenenlagern befinden, beschleunigt werden <hi
+            type="comment" rend="sup"><ptr target="#note5"/></hi>.</p>
+      </div>
+      <note type="comment" xml:id="note1" n="1"> Das Protokoll ist nur in Durchschlägen überliefert;
+        letzte Version ist, wie die Übernahme geringfügiger Korrekturen zeigt, das Stück in Best.
+        860, Nr. 9601. Die Edition folgt dem von MinPräs Boden unterschriebenen Exemplar in Best.
+        700,177 Nr. 654, S. 92-102. Weiter Durchschläge in Best. 860 Nr. 8186 in Nr. 4535, S. 1-19
+        und in Best. 700,155 Nr. 62, S. 39 und S. 41-57. Druck: Brommer, Quellen, S. 358-366.
+        Anlagen: 1. Beschluss über die Festsetzung der Dienstbezüge der Minister,
+        Ministerialdirektoren und Ministerialdirigenten (in allen vorher genannten Überlieferungen);
+        2. TO (nur in Best. 700,155 Nr. 62, S. 37). </note>
+      <note type="comment" xml:id="note2" n="2"> Personalunterlagen konnten nicht nachgewiesen
+        werden. </note>
+      <note type="comment" xml:id="note3" n="3"> Emile Laffon (1907-1957), Ingenieur und
+        Rechtsanwalt, ab 1943 Mitglied des Französischen Komitees der Nationalen Befreiung (CFLN) in
+        Algier, ab August 1944 Generaldirektor im Innenministerium in Paris, Ende Juli 1945 bis
+        November 1947 als „Administrateur général de la Zone Francaise d’Occupation“ Chef der
+        zonalen Zivilverwaltung (Pieroth, Parteien, S. 863; Raberg, Protokolle, S. XXII, Anm. 61);
+        zu seiner Stellung innerhalb der Militärregierung vgl. Springorum, Entstehung, S. 108 f.;
+        Henke, Politik, S. 57 und S. 61-64; Lattard, Gewerkschaften, S. 7 und 19-21; Martens,
+        Demokratisierung, S. 15 f. </note>
+      <note type="comment" xml:id="note4" n="4"> Ein Protokoll dieser Unterredung konnte nicht
+        nachgewiesen werden. Vgl. Brommer, Quellen, S. 359, Anm. 1. </note>
+      <note type="comment" xml:id="note5" n="5"> Zur Entnazifizierung grundlegend: Möhler,
+        Entnazifizierung; speziell zur Pfalz ders., „Christenverfolgung?“, sowie Fandel,
+        Entnazifizierung. Vgl. dazu die Beratung des ersten Entwurfs einer „LVO über die politische
+        Bereinigung“ in der 15. MRS am 12.2.1947, TOP 3. Zu den im Gebiet des neuen Landes noch
+        vorhandenen Kriegsgefangenenlager siehe Resmini, S. 607-610. Hiervon sind die
+        Internierungslager zu unterscheiden, deren Insassen in Regel durch NSDAP-Mitgliedschaft und
+        die Ausübung entsprechender Ämter in der NS-Zeit als belastet galten (vgl. ebd., S.
+        612-617). Dazu im Rückblick Hettier de Boislambert, Gouverneur, S. 330 f. </note>
+      <div type="agenda_item" subtype="ordinary" xml:id="top_wyj_tyq_rfc">
+        <head>B. Vertretung der Minister</head>
+        <p>Der Ministerpräsident bittet dann die einzelnen Minister, stets einen Vertreter zu
+          bestimmen, der in ihrer Abwesenheit der Militärregierung gegenüber vertretungsbefugt ist.
+          Es wurden alsdann die einzelnen Punkte der Tagesordnung wie folgt erledigt:</p>
+        <head>1. Abgrenzung einzelner Ministerien <hi type="comment" rend="sup"><ptr target="#note6"
+            /></hi></head>
+        <p>In einer längeren Debatte wurde die Frage der Eingliederung der Sozialversicherung
+          besprochen <hi type="comment" rend="sup"><ptr target="#note7"/></hi>. Nach dem Plan des
+          Verwaltungsausschusses und der Gemischten Kommission sollte die Sozialversicherung in das
+          Wohlfahrtsministerium eingegliedert werden <hi type="comment" rend="sup"><ptr
+              target="#note8"/></hi>. Es wurde aber beschlossen, die Sozialversicherung einstweilen
+          beim Arbeitsministerium zu belassen und die endgültige Entscheidung über diesen Punkt bis
+          zu den Beratungen über die Bildung der endgültigen Regierung zurückzustellen. Nach Ansicht
+          des Ministers Röhle wäre diese Frage nie an den Ministerrat herangetragen worden, wenn er
+          vorher Kenntnis von dem Beschluß des Verwaltungsausschusses gehabt hätte. Er betont, daß
+          die Differenz nur deshalb entstanden sei, weil die einzelnen Aufgabengebiete der
+          Ministerien nicht genau festgelegt seien. Minister Steffan bittet um Verlesung der
+          diesbezüglichen Protokolle vom 31.10. und 7.11.46. Beide wurden verlesen. </p>
+        <note type="comment" xml:id="note6" n="6"> Zuletzt 10. MRS am 17.1.1947, TOP H. Vgl. Best.
+          860 Nr. 3771, Nr. 3758, Nr. 1101, Nr. 1102 und Nr. 1104 und Best. 900 Nr. 10 sowie Best.
+          930 Nr. 2768 und Nr. 4956 </note>
+        <note type="comment" xml:id="note7" n="7"> Allgemein dazu Hudemann, Sozialpolitik </note>
+        <note type="comment" xml:id="note8" n="8"> Vgl. 3. Sitzung des Verwaltungsausschusses der GK
+          in Ingelheim vom 31.10.1946 (Brommer, Quellen, S. 271-274) und den Beschluss der 6.
+          Sitzung der GK vom 7.11.1946, in dem die Sozialversicherung allerdings nicht ausdrücklich
+          erwähnt wird (ebd., S. 274-278). </note>
+        <p/>
+        <p>Minister Steffan weist darauf hin, daß der Ministerrat insbesondere dazu berufen sei, die
+          Interessen der Bevölkerung zu wahren. Er sei daher nach wie vor der Ansicht, daß sechs
+          Ministerien ausreichen würden. Zur Frage der Sozialversicherung ist auch Minister Steffan
+          der Ansicht, daß diese wie überall zum Arbeitsministerium gehöre. Wenn den Gewerkschaften
+          die Bedeutung zuerkannt würde, auf die sie einen unbestreitbaren Anspruch hätten, würde
+          man um die Meinung der Gewerkschaften nicht herum können. Die Gewerkschaften hätten sich
+          in den von dem Ministerpräsidenten bekannt gegebenen Eingaben und Telegrammen dagegen
+          gewandt und damit entfalle dem Beschluß die Berechtigung. Selbst der Generalsekretär des
+          Internationalen Gewerkschaftsbundes habe ihm geraten, nichts zu unternehmen, ohne die
+          Gewerkschaften gehört zu haben. Auch würde die Militärregierung nichts unternehmen, was
+          gegen die Gewerkschaften stimmen würde. </p>
+        <p>Der Ministerpräsident betonte, daß er sich schon in Neustadt ausdrücklich zu der These
+          bekannt habe, daß auf dem Gebiet des Arbeitswesens die Anhörung der Gewerkschaften für die
+          Zukunft mehr zu berücksichtigen sei als bisher. Er habe dann aber gehört, daß die
+          Organisation der Einheitsgewerkschaft im ganzen Lande außerordentlich verschieden sei. Bei
+          den sehr verschiedenen Ziffern der Mitglieder in Hessen-Pfalz einerseits und Rheinland
+          andererseits könne von einem einheitlichen Machtfaktor noch nicht gesprochen werden. Die
+          Ziffern, die ihm genannt worden seien, bewegten sich von ca. 100.000, die schon
+          organisiert seien, im Verhältnis von 80.000 zu 20.000. Er sei der Auffassung, daß der
+          Ministerrat auf diesem Gebiete und in all diesen Fragen die führende Rolle zu spielen
+          habe. Der Ministerrat müsse den Mut aufbringen, auch gegenüber den Gewerkschaften, wenn es
+          das Staatswohl erfordere, sich durchzusetzen. Trotzdem sei er zur Zeit für eine
+          Zurückstellung der Sache bis zur endgültigen Regierungsbildung. </p>
+        <p>Minister Röhle sah die Bemerkung des Ministerpräsidenten als eine Brücke an. Er habe
+          bisher die Sozialversicherung mitbearbeitet und manche Unstimmigkeit beseitigt. Er bat
+          darum, die Sozialversicherung bis zur nächsten Wahl beim Arbeitsministerium zu belassen.
+          Für ihn gäbe es aber keinen Zweifel, daß auch dann die Gewerkschaften mit einem 100%igen
+          Recht die Forderung erheben würden, daß die Sozialversicherung zum Arbeitsministerium
+          gehöre. Gewiß dürfe auch die Privatinitiative nicht zurückgedrängt werden, aber dem
+          Arbeiter müßten zum mindesten die Grundlagen für seine Existenz gesichert werden. </p>
+        <p>Minister Junglas spricht sich ebenfalls für den einstweiligen Verbleib der
+          Sozialversicherung beim Arbeitsministerium aus. Er betont, daß dies nicht aus
+          parteipolitischen Gründen geschehe. Es solle lediglich vermieden werden, daß bei den
+          gegenwärtigen Verhältnissen eine Beunruhigung in die Arbeiterschaft hineingetragen werde. </p>
+        <p>Minister Steffan versichert, daß die SPD nie daran gedacht habe, der CDP einen Vorwurf zu
+          machen, daß aus parteipolitischen Gründen die Sozialversicherung zum Wohlfahrtsministerium
+          geschlagen werden sollte. Er sei aber angenehm berührt, daß Minister Junglas Verständnis
+          für die Unterbringung der Sozialversicherung im Arbeitsministerium habe. Der
+          Ministerpräsident nahm die Äußerung der vorgenannten Minister mit Befriedigung zur
+          Kenntnis. Sein Vorschlag sei hauptsächlich getragen von dem Gedanken, daß bei einer
+          endgültigen Regelung der Landesregierung jede Partei wisse, wie die einzelnen
+          Aufgabengebiete der Zukunft auf die Ministerien verlagert würden. Es sei für ihn eine
+          Pflicht, darüber zu wachen, daß die Anforderungen der Parteien egalisiert würden. Er
+          spreche hier nicht als CDP-Mann, sondern als Ministerpräsident. Minister Steffan ist mit
+          allen anderen Ministern der gleichen Auffassung. Er hebt hervor, daß die Minister hier
+          nicht die Interessen der Parteien, sondern des Volkes zu vertreten hätten. Auch Minister
+          Röhle betont, daß alle Ämter paritätisch besetzt werden müßten. Minister Dr. Süsterhenn
+          schlägt die einmütige Annahme des Vorschlages des Ministerpräsidenten vor und bittet, bis
+          zur Bildung einer endgültigen Regierung die Sozialversicherung beim Arbeitsministerium zu
+          belassen. Minister Dr. Haberer bedauert den Gang der Diskussion insofern, als es nach
+          seiner Ansicht richtiger gewesen wäre, dem sozialpolitischen Ausschuß des Landtags die
+          Verantwortung für die Einteilung der Ministerien zu übergeben. Vor dem Forum des Volkes
+          wäre dann die Entscheidung getroffen worden. Dann wären auch die Gewerkschaften, die dort
+          vertreten sind, hinreichend zu Wort gekommen. Nach Ansicht des Ministerpräsidenten könne
+          dies noch geschehen. Jedoch habe sich die Landesversammlung nur mit solchen Aufgaben zu
+          befassen, die ihr von der Landesregierung zugewiesen würden. Minister Feller tritt für das
+          volle Mitbestimmungsrecht der Gewerkschaften ein und bittet daher ebenfalls um Belassung
+          der Sozialversicherung beim Arbeitsministerium. </p>
+        <p>Der Ministerpräsident macht darauf aufmerksam, daß die Rechte der Gewerkschaften künftig
+          durch die Verfassung gesetzlich niedergelegt werden. Es handele sich hier lediglich um
+          einen Übergang. Im weiteren Verlauf der Diskussion wurde ein Vorschlag des Ministers Dr.
+          Haberer vom Ministerrat akzeptiert, wonach innerhalb des Ministeriums für Wirtschaft und
+          Finanzen eine Abteilung Wirtschaftsforschung und Statistik eingerichtet werden soll <hi
+            type="comment" rend="sup"><ptr target="#note9"/></hi>. Minister Dr. Haberer bittet um
+          Überantwortung des Statistischen Landesamtes in das Wirtschaftsministerium zum Ausbau
+          eines Institutes für Konjunkturforschung <hi type="comment" rend="sup"><ptr
+              target="#note10"/></hi>. Für den zweckmäßigen Aufbau einer Wirtschaft sei es
+          erforderlich, alles unter eine Leitung zu bringen. Der Ministerrat erklärte sich hiermit
+          einverstanden <hi type="comment" rend="sup"><ptr target="#note11"/></hi>. Minister Feller
+          legt Wert darauf, daß die gesamte Kraftverkehrsabteilung zum Verkehrsministerium gehöre. </p>
+        <p>Minister Dr. Haberer stimmt dem zu und erklärt, daß die Kraftstoffverteilung ebenfalls
+          zum Verkehrsministerium gehöre, daß aber die Bewirtschaftung der Reifen und des Gummis von
+          der Wirtschaft aus erfolgen müsse <hi type="comment" rend="sup"><ptr target="#note12"
+            /></hi>.</p>
+      </div>
+      <note type="comment" xml:id="note9" n="9"> Vgl. die Organisationspläne des
+        Wirtschaftsministeriums (Best. 860 Nr. 3765 und Nr. 8979 sowie Best. 950 Nr. 8979) sowie
+        Brommer, Landesregierung, S. 499. Die formelle Antrag wurde von Haberer jedoch erst in der
+        28. MRS am 29.5.1947 vorgelegt (ebd., S. 499 und S. 535). </note>
+      <note type="comment" xml:id="note10" n="10"> Fortgang 28. MRS am 29.5.1947, TOP 1 </note>
+      <note type="comment" xml:id="note11" n="11"> Das Statistische Landesamt Rheinland-Pfalz war
+        durch Erlass des MinPräs vom 15.1.1947 rückwirkend zum 1.1.1947 durch Zusammenlegung der
+        bisherigen Statistischen Landesämter in Koblenz und in Neustadt zu einem Amt vereinigt und
+        dem Min-Präs direkt unterstellt worden (Best. 860 Nr. 3771, S. 111; zur Vorgängerbehörde
+        vgl. Best. 700,155 Nr. 17). Der Beschluss, das Amt zum 1.2.1947 dem Minister für Wirtschaft
+        und Finanzen zu unterstellen (Best. 860 Nr. 3771, S. 107 und Best. 930 Nr. 4234; vgl.
+        Schreiben von MinPräs Boden vom 9.4.1947 an den GenGouv in Best. 860 Nr. 1006, S. 145-146)
+        wurde vom Ministerrat im Juli 1947 wieder rückgängig gemacht (vgl. das Protokoll zur 32. MRS
+        am 15.7.1947, TOP S). Ende 1947 wurde das Amt nach Bad Ems verlegt (Best. 860 Nr. 1523). Mit
+        Datum vom 17.12.1947 wurde ein Entwurf für eine Lvfg. zur „Gründung eines Statistischen
+        Landesamtes für das Land Rheinland-Pfalz“ vorgelegt, der nach Überarbeitung – u. a.
+        Umwandlung in eine LVO - mit Schreiben vom 31.1.1948 den Staatsministern als Vorlage für
+        eine der nächsten Kabinettssitzungen zugeleitet wurde (Best. 860 Nr. 3528, S. 1-11). Die
+        mittlerweile dem Statistischen Landesamt zugewiesene Aufgabe zur weiteren Ausarbeitung der
+        LVO ist noch bis zum 6. Juli 1948 nachweisbar (ebd., S. 12-49; desgl. Best. 880 Nr. 653a,
+        mit Protokoll der Gründungsversammlung am 16.7.1948); zu weiteren Beratungen im Ministerrat
+        und zur Verabschiedung einer entsprechenden LVO bzw. eines Landesgesetzes ist es dennoch
+        nicht gekommen. Auch im Ministerium für Wirtschaft wurde zeitweise – vermutlich vor dem
+        Hintergrund des in dieser MRS gefassten Beschlusses – an einem „Statut des Statistischen
+        Landesamtes“ gearbeitet (Entwurf, undatiert, in Best. 950 Nr. 11351). Vgl. Festansprache und
+        Grußworte. Feierstunde zum 50-jährigen Bestehen des Statistischen Landesamtes am 22.6.1998,
+        in: Statistische Monatshefte Rheinland-Pfalz, 51. Jg., Heft 12 (Beilage) sowie die
+        Einleitung zum 51. Jg. (ebd., H. 1). – Fortgang betr.Verkehrsressort 32. MRS am 15.7.1947,
+        TOP G. Fortgang betr. Statistisches Landesamt ebd., TOP S. </note>
+      <note type="comment" xml:id="note12" n="12"> Dieser Einwand wurde durch einen in der 13. MRS
+        am 7.2.1947 beschlossenen und hier eingeschobenen Zusatz zum Protokoll annulliert (vgl. 13.
+        MRS am 7.2.1947, TOP 6). Zu Aufgaben und Abgrenzung des Ministeriums für Wiederaufbau und
+        Verkehr vgl. Best. 860 Nr. 3769 und Nr. 3772, S. 11 sowie Best. 930 Nr. 2768 und Nr. 4956.
+        Zum Problem der Reifenknappheit vgl. Best. 880 Nr. 5458, Best. 950 Nr. 151155 sowie 37. MRS
+        am 12.8.1947, TOP M. – Fortgang betr. Personalfragen 12. MRS am 31.1.1947, TOP 5. Fortgang
+        betr. Zuschnitt Wiederaufbauministerium 32. MRS am 15.7.1947, TOP G. </note>
+      <div type="agenda_item" subtype="ordinary" xml:id="top_tjm_c1y_rfc">
+        <head>C. Verwaltung der Pfalz und Verfassungsfrage <hi type="comment" rend="sup"><ptr
+              target="#note13"/></hi></head>
+        <p>Des weiteren werden die Personalangelegenheiten besprochen. Es wird allgemein darüber
+          geklagt, daß die Entscheidungen über die Besetzung der Posten viel zu lange hinausgezogen
+          würden. Alsdann wird der Fall Bökenkrüger behandelt <hi type="comment" rend="sup"><ptr
+              target="#note14"/></hi>. Offensichtlich scheine die Militärregierung in Neustadt kein
+          Interesse daran zu haben, Herrn Bökenkrüger freizugeben. Minister Dr. Süsterhenn gibt
+          bekannt, daß die Abwicklungsstelle der Justizabteilung in Neustadt ihm mitgeteilt habe,
+          daß der Oberregierungspräsident Dr. Eichenlaub und Herr Bökenkrüger eine Rechtsordnung
+          erlassen wollen, wozu sie nicht mehr befugt seien. Dr. Ritterspacher <hi type="comment"
+            rend="sup"><ptr target="#note15"/></hi> habe ihn bereits darauf hingewiesen. Er bittet,
+          erneut darauf hinzuweisen, daß die festgelegten Schranken in Neustadt eingehalten werden.
+          Der Ministerpräsident stimmt mit Minister Dr. Süsterhenn überein, daß eine Rechtsordnung
+          in der Pfalz nicht erlassen werden darf <hi type="comment" rend="sup"><ptr
+              target="#note16"/></hi>. Anschließend kommt der Ministerpräsident auf den
+          Verfassungsentwurf <hi type="comment" rend="sup"><ptr target="#note17"/></hi> bzw. seine
+          Veröffentlichung zu sprechen, da er aus dem ganzen Lande um einen Entwurf gebeten würde,
+          um dazu Stellung nehmen zu können. Er vertrat den Standpunkt und bat, diesen allgemein
+          anzunehmen, daß die Nichtbekanntgabe des ersten Verfassungsentwurfs nicht auf uns, sondern
+          auf eine strikte Anweisung der Militärregierung zurückzuführen sei. Es müsse der
+          Standpunkt vertreten werden, daß der Entwurf Dr. Süsterhenn ein Vorentwurf sei, der zur
+          Zeit durch den inzwischen dafür zuständigen Verfassungsausschuß der verfassungsgebenden
+          Versammlung <hi type="comment" rend="sup"><ptr target="#note18"/></hi> beraten würde. Das
+          Ergebnis dieser Beratung bringe einen in vielen Punkten anderen Entwurf hervor, wie er
+          bisher als Entwurf Dr. Süsterhenn bezeichnet wurde. Erst dieser Entwurf könne zur Debatte
+          der Öffentlichkeit stehen. Er sei der Auffassung, daß alsdann nicht nur die Mitglieder der
+          verfassunggebenden Landesversammlung, sondern die Allgemeinheit der Bevölkerung und damit
+          insbesondere deren prägnante Wortführer, die Presse usw., auch unterrichtet werden müßten.
+          Der Ministerpräsident weist darauf hin, daß sich bereits hierüber in anderen Zonen eine
+          Kontroverse über die Verfassung in Rheinland-Pfalz ergeben habe. Minister Röhle erklärt,
+          daß der erste Verfassungsentwurf in der Pfalz sofort vervielfältigt worden sei, obwohl
+          ausdrücklich Schweigepflicht geboten worden wäre <hi type="comment" rend="sup"><ptr
+              target="#note19"/></hi>.</p>
+        <note type="comment" xml:id="note13" n="13"> Zuletzt 9. MRS am 13.1.1947, TOP A </note>
+        <note type="comment" xml:id="note14" n="14"> Möglicher Bezug: die ursprüngliche Nominierung
+          Bökenkrügers als Minister für Arbeit seitens der SPD, die von der Militärregierung
+          abgelehnt worden war (vgl. Küppers, Staatsbildung, S. 145 f.) </note>
+        <note type="comment" xml:id="note15" n="15"> Dr. Ludwig Ritterspacher (1883-1964), 1901-1905
+          Studium der Rechtswissenschaft in München und Berlin, 1925-1937 LG-Rat in Frankenthal,
+          1937 entlassen, 1937-1939 Versicherungsvertreter in Frankfurt/M., 1945-1947 PräsDir der
+          Justiz im Oberregierungspräsidium in Neustadt, 1947-1949 OLGPräs in Neustadt, 1949
+          Pensionierung, für die CDU MdGK, MdBLV, Vorsitzender des Verfassungsausschusses (Best.
+          860P, Nr. 1357; Best. 860Z Nr. 779; Mehl-Lippert/Peckhaus, Abgeordnete, S. 263 f.; Simon,
+          Die Abgeordneten, S. 168). </note>
+        <note type="comment" xml:id="note16" n="16"> Landesverordnungen durften, wie Landesgesetze,
+          nur vom Ministerrat beschlossen werden </note>
+        <note type="comment" xml:id="note17" n="17"> Vgl. Schreiben des Präsidenten der BLV Reichert
+          an MinPräs Boden vom 21.1.1947 (Brommer, Quellen, S. 357-358). </note>
+        <note type="comment" xml:id="note18" n="18"> Wie im Falle der GK, so gehörte auch zur BLV
+          ein Verfassungsausschuss. Nur Minister Süsterhenn war Mitglied in beiden
+          Verfassungsausschüssen. Vgl. Springorum, Entstehung, S. 215; Heyen, Vorentwurf </note>
+        <note type="comment" xml:id="note19" n="19"> Fortgang 12. MRS am 31.1.1947, TOP A </note>
+        <p/>
+        <head>2. Stellungnahme zur Ernährungslage <hi type="comment" rend="sup"><ptr
+              target="#note20"/></hi></head>
+        <p>Der Ministerpräsident hielt es für dringend erforderlich, durch den
+          Landwirtschaftsminister einen Bericht über die gegenwärtige Lage erstatten zu lassen <hi
+            type="comment" rend="sup"><ptr target="#note21"/></hi>, wozu ihm vor allem ein Vorgang
+          aus der vergangenen Woche Veranlassung gab. Es handelte sich hier um die sofortige
+          Erfüllung einer rückständigen Auflage von 350 t Fleisch, die vom Rheinland für Berlin
+          geliefert werden müßten, was den Ausfall einer Fleischzuteilung für mindestens eine Woche
+            <hi type="comment" rend="sup"><ptr target="#note22"/></hi> bedinge. Die Stellungnahme
+          des Ministerrats zu dem Gesamternährungskomplex geht dahin, daß es im Hinblick auf die
+          Stimmung der Bevölkerung nicht weiter geduldet werden könne, Auflagen an andere Stellen zu
+          entrichten, während im Rheinland selbst nicht einmal das Notwendigste zur Verteilung
+          gelangen kann <hi type="comment" rend="sup"><ptr target="#note23"/></hi>. Das gilt
+          insbesondere auf dem Gebiet der Fett- und Fleischversorgung <hi type="comment" rend="sup"
+              ><ptr target="#note24"/></hi>. Es müsse mit allem Nachdruck bei der Militärregierung
+          darauf hingewiesen werden, daß mit Rücksicht auf die Betreuung der eigenen Bevölkerung die
+          100%ige Auflagenerfüllung nicht möglich sei, solange für die Bedarfsdeckung der
+          Bevölkerung noch nicht einmal 10% zur Verfügung ständen. Minister Stübinger führt die
+          Nichtverteilung von Fett darauf zurück, daß sowohl die Milch- als auch die Viehauflage von
+          Baden-Baden geregelt würde. Es sei generell festzustellen, daß selbst die Länder, die
+          aufgrund ihres Viehbestandes einen Überschuß an Milch hätten, keine Fettzuteilung hätten
+          vornehmen können, da sie bevorzugt die Auflagen für Berlin, die Saar und z.T. für die
+          Pfalz hätten erfüllen müssen. An sich sei die allgemeine Milchablieferung im Rheinland
+          [nicht] gut <hi type="comment" rend="sup"><ptr target="#note25"/></hi>. Er sei allerdings
+          in Baden-Baden nicht recht verhandlungsfähig gewesen, da ihm die Unterlagen darüber,
+          welche Mengen an Vieh und Milch das Gebiet aufbringen könne, gefehlt hätten. Im Februar
+          müßten aber wieder 80 t über das Auflagenvermögen geliefert werden. Für den Monat März
+          würden 557 t verlangt. In den letzten Monaten sei aber die Leistungsfähigkeit nicht über
+          500 t hinaus gegangen. Zwar sei die Milchablieferung durch verschärfte Maßnahmen um 8%
+          gesteigert worden. Günstigstenfalls könnten der Bevölkerung 200 g Fett zugeteilt werden
+          bei Berücksichtigung der Auflagen, wogegen der Bevölkerung des Saargebietes aber 500 g
+          zugewiesen würden. Minister Stübinger bat, einen Beschluß zu fassen, wonach in Zukunft
+          gegen die säumigen Milchablieferer mit folgenden Sanktionen vorgegangen werden soll:</p>
+        <list type="ordered">
+          <item>1. Entzug der Selbstversorgerberechtigung,</item>
+          <item>2. Beschlagnahme der Kühe, evtl. Umstellung,</item>
+          <item>3. bei krassen Fällen Verhaftung.</item>
+        </list>
+        <note type="comment" xml:id="note20" n="20"> Zuletzt 10. MRS am 17.1.1947, TOP K. </note>
+        <note type="comment" xml:id="note21" n="21"> Vgl. hierzu den politischen Lagebericht des
+          Trierer RPräs vom 20.1.1947 (Best. 860 Nr. 3777, S. 87-99, zur Ernährungslage darin
+          insbes. S. 91 f.) sowie die Rede des Vorsitzenden des Zentralausschusses für Ernährung auf
+          der Landrätekonferenz in Neustadt am 31.3.1947 (Brommer, Quellen, S. 406-409). Zur Fett-
+          und Fleischversorgung im Regierungsbezirk Koblenz siehe Best. 441 Nr. 44853. </note>
+        <note type="comment" xml:id="note22" n="22"> Handschr. verbessert aus: „4 Wochen”. </note>
+        <note type="comment" xml:id="note23" n="23"> Zur Lebensmittelverteilung 1946-1947 vgl. Best.
+          940 Nr. 122. </note>
+        <note type="comment" xml:id="note24" n="24"> Dazu insbes. Best. 860 Nr. 3803 und Nr. 1102
+          sowie Best. 940 Nr. 93, Nr. 95 und (ab 1948) Nr. 90. </note>
+        <note type="comment" xml:id="note25" n="25"> Die hier eingefügte Korrektur wurde bei der 13.
+          MRS am 7.2.1947 nachträglich beschlossen. </note>
+        <p/>
+        <p>Was die Pfalz anbelange, so seien dort die Fettschwierigkeiten nicht so groß wie hier <hi
+            type="comment" rend="sup"><ptr target="#note26"/></hi>. Die Milchablieferungszahlen
+          lägen dort so hoch wie die Anforderungen der Militärregierung. Weit schwieriger sei dort
+          die Kartoffelfrage. In der Hinsicht sei das Rheinland am besten in der ganzen
+          französischen Zone versorgt. In die Pfalz (Ludwigshafen) wären bis jetzt drei
+          Transportzüge geleitet worden <hi type="comment" rend="sup"><ptr target="#note27"/></hi>.
+          Weitere Transporte dürften aber auf Anweisung der Militärregierung nicht erfolgen.
+          Minister Stübinger erwähnte ferner, daß er in Baden-Baden von Colonel Vincent <hi
+            type="comment" rend="sup"><ptr target="#note28"/></hi> sehr scharf angegriffen worden
+          sei <hi type="comment" rend="sup"><ptr target="#note29"/></hi>. In Rheinhessen müßten
+          sofort alle Kartoffelbestände erfaßt werden, da es seinen Lieferungen in die Pfalz nicht
+          nachgekommen sei. Es wurde in Baden-Baden ferner die Fleischauflage verhandelt, die
+          derartig hoch ist, daß der Viehbestand im Laufe der kommenden Jahre vollständig erschöpft
+          ist. Es sei Minister Stübinger aber in Baden-Baden aufgegeben worden, bis 1950 den
+          Kuhbestand auf den Stand von 1938 zu bringen. Die Auflage sei nun auf Kleinvieh umgelegt
+          worden. - Zur Frage der Rationen erklärte der Minister, daß vorläufig die bisherigen
+          Rationssätze weiter bewilligt würden. Vielleicht könne auch im Februar eine Fettzuteilung
+          erfolgen.</p>
+        <p>Ministerpräsident: Die Ausführungen des Ministers Stübinger sind m.E. unter zwei absolut
+          verschiedenen Gesichtspunkten zu betrachten: einmal, daß seitens der Landwirtschaft
+          geschieht, was geschehen kann, auf der anderen Seite, daß die Forderungen an die
+          Landwirtschaft einer Nachprüfung unterzogen werden, ob sie im Gesamtrahmen der
+          französischen Besatzungszone richtig sind oder nicht. Wenn wir wenigstens in etwa die
+          notwendigen Verteilungen vornehmen wollen, müssen auch unsere Landwirte unter Druck
+          gesetzt werden. Es ist dringend erforderlich, daß der Ministerrat in seiner nächsten
+          Sitzung eine Anordnung beschließt, die auf die Stimmung der versorgungsberechtigten
+          Bevölkerung wohltuend wirkt. Der Ministerpräsident kommt noch einmal auf die Unterredung
+          mit Generaladministrator Laffon zurück, in der er darauf hingewiesen habe, daß die
+          Grundlage der Verteilung in der französischen Zone nach seiner Auffassung nicht richtig
+          sei, und zwar deshalb, weil der Minderwertigkeit des rheinischen Höhenviehs zu wenig
+          Rechnung getragen werde. Es müsse auf jeden Fall erreicht werden, daß zuerst die eigene
+          Bevölkerung und dann die anderen Länder versorgt würden. Diese Angelegenheit müsse der
+          Herr Ernährungsminister erneut bei der Militärregierung nachdrücklich zum Vortrag bringen
+            <hi type="comment" rend="sup"><ptr target="#note30"/></hi>. Minister Dr. Süsterhenn
+          greift die Ausführungen von Minister Stü-binger auf und weist darauf hin, daß immer wieder
+          über mangelnde Erfassung der Lebensmittel geklagt würde. Er schlägt vor, einen
+          Presseartikel in die Öffentlichkeit zu dieser Sache zu bringen, ferner einen
+          Sonderkommissar für die Erfassung zu bestellen, dem von Seiten des Innenministeriums alle
+          Polizeikräfte zur Verfügung gestellt werden müßten, um die Erfassung auch bei den
+          renitenten Landwirten durchzuführen.</p>
+        <p>Der Ministerrat stimmt einstimmig dem Vorschlag des Ministerpräsidenten zu, wonach in der
+          nächsten Ministerratssitzung am 31.1.47 ein Gesetz zur Sicherung der Ernährung
+          verabschiedet werden soll, dessen Ausarbeitung den Ministern der Justiz und für
+          Landwirtschaft und Ernährung übertragen wird. Minister Feller ist der Ansicht, daß auch
+          die Parteien und Gewerkschaften dem Sonderkommissar bei der Erfassung helfen müßten, damit
+          die Bevölkerung auf jeden Fall beruhigt wird <hi type="comment" rend="sup"><ptr
+              target="#note31"/></hi>.</p>
+        <note type="comment" xml:id="note26" n="26"> Vgl die Protokolle der Sitzung des Ernährungs-
+          und Versorgungsausschusses der BLV am 28.1. und 29.1.1947 (Brommer, Landesversammlung, S.
+          91 f.; LASp Best. H 13 Nr. 3, S. 121-123). </note>
+        <note type="comment" xml:id="note27" n="27"> Zur Situation speziell in der Pfalz vgl. 3. MRS
+          am 4.12.1946, TOP D, und 30. MRS am 11.6.1947, TOP A </note>
+        <note type="comment" xml:id="note28" n="28"> Vincent, Oberst(leutnant) der französischen
+          Militärregierung und Chef der Ernährungsabteilung der Koblenzer Militärregierung (Brommer,
+          Quellen, S. 66, S. 73, S. 107 f., S. 363, S. 449, S. 450 Anm. 7 und S. 492 Anm. 4). Vgl.
+          Rohtenberger, Hungerjahre, S. 158. </note>
+        <note type="comment" xml:id="note29" n="29"> Das Verhältnis zu Ernährungsabteilung der
+          Militärregierung gestaltete sich aufgrund der allgemeinen Versorgungsschwierigkeiten und
+          der französischen Forderungen ausgesprochen schwierig. Einen Tiefpunkt erreichte es mit
+          der Erklärung von Oberst Vincent Ende März 1947, dass er hinfort in keiner Weise mehr
+          Unterstützung für Anliegen der deutschen Seite gewähren werde (Aktenvermerk vom 28.3.1947,
+          in Best. 940 Nr. 112, S. 385 f.). Im Laufe des Jahres verbesserte sich das Verhältnis
+          wieder (vgl. 29. MRS am 3.6.1947, TOP A, sowie die Gesprächsniederschriften in Best. 940
+          Nr. 112, S. 253-321). </note>
+        <note type="comment" xml:id="note30" n="30"> Ein entsprechendes Schreiben oder Protokoll
+          konnte im Schriftverkehr des Ministeriums für Landwirtschaft und Ernährung mit der
+          Militärregierung nicht nachgewiesen werden. Die für die Militärregierung bestimmten
+          Monatsberichte zur Ernährung sind erst ab August 1947 überliefert (Best. 940 Nr. 435; vgl.
+          ebd. Nr. 691). Vgl. auch zwei Schreiben des Ernährungs- und Versorgungsausschusses der BLV
+          vom 29.1.1947 und vom 1.2.1947 an das Ministerium für Landwirtschaft und Ernährung
+          (Brommer, Landesversammlung, S. 110-118) sowie die Erläuterung der katastrophalen
+          Ernährungssituation, die Minister Stübinger in einer Rede am 19.2.1947 vor der BLV abgab
+          (BVL Drucks. Nr. 9, S. 5-8; Separatdruck in Best. 940 Nr. 49, S. 419-420). </note>
+        <note type="comment" xml:id="note31" n="31"> Fortgang 12. MRS am 31.1.1947, TOP 1 </note>
+        <div type="agenda_sub_item" xml:id="top_d3h_51y_rfc">
+          <head/>
+          <head>3. Stellungnahme zur Verfügung <hi type="comment" rend="sup"><ptr target="#note32"
+              /></hi> Nr. 194 über Errichtung einer höheren Verwaltungsakademie in Speyer <hi
+              type="comment" rend="sup"><ptr target="#note33"/></hi></head>
+          <p>Ministerpräsident: Im Journal Officiel vom 17.1.47 Nr. 194 <hi type="comment"
+              rend="sup"><ptr target="#note34"/></hi> ist obige Verordnung veröffentlicht. In dieser
+            Verordnung, die ohne Mitwirkung von mir oder meinen Dienststellen erlassen worden ist,
+            wird einmal die Errichtung einer Verwaltungsakademie in Speyer angeordnet und in einer
+            Annexe befindet sich neben den Bestimmungen über Leitung und Verwaltung, Ausbildung und
+            Arbeitsplan u.a. in Artikel 4 eine Bestimmung darüber, daß das Diplom der
+            Verwaltungsakademie künftig Voraussetzung für die Anstellung im höheren
+            Verwaltungsdienst sein soll. - Der Ministerpräsident schlägt vor, daß der Ministerrat in
+            einer Eingabe an den Herrn Gouverneur darauf hinweisen müsse, daß die Herbeiführung
+            einer Übereinstimmung dieser Anordnung mit den bisher gültigen Ausbildungsvorschriften
+            und Einrichtungen, insbesondere auch der Verwaltungsschule in Cochem, dringend
+            erforderlich sei <hi type="comment" rend="sup"><ptr target="#note35"/></hi>.
+            Dementsprechend wurde einstimmig beschlossen <hi type="comment" rend="sup"><ptr
+                target="#note36"/></hi>.</p>
+        </div>
+        <div type="agenda_sub_item" xml:id="top_w3j_x1y_rfc">
+          <head>4. Festsetzung der Dienstbezüge der Minister, Ministerialdirektoren und
+            Ministerialdirigenten</head>
+          <p>Der Ministerrat ist der Auffassung, daß zur Zeit nur eine vorläufige Regelung
+            getroffen, die endgültige Festsetzung aber der demnächstigen Landesregierung überlassen
+            werden soll <hi type="comment" rend="sup"><ptr target="#note37"/></hi>. Des weiteren
+            hält er die Angleichung an die frühere preußische Besoldungsordnung, die bei der
+            Beamtenbesoldung allgemein Anwendung findet, für zweckmäßig. Dabei werden im Hinblick
+            auf die Aufgabengebiete der Ministerialdirektoren und Ministerialdirigenten für diese
+            Zwischenstufen zwischen den früheren Staatssekretären und Ministerialdirektoren bzw.
+            zwischen den Ministerialdirektoren und Ministerialdirigenten geschaffen. Demzufolge
+            wurde der in der Anlage beigefügte Beschluß einstimmig gefaßt <hi type="comment"
+              rend="sup"><ptr target="#note38"/></hi>.</p>
+          <note type="comment" xml:id="note32" n="32"> In Best. 860 Nr. 9601 irrtümlich:
+            „Verfassung“. </note>
+          <note type="comment" xml:id="note33" n="33"> Vgl. Best. 860 Nr. 27-29, Nr. 1006, S. 3 und
+            S. 275, Nr. 1011, Nr. 1153, Nr. 2165 und Nr. 4534, ferner Best. 930 Nr. 2730. Zu den
+            Arbeiten am Gesetz siehe Best. 860 Nr. 4534. Das Gesetz über die Errichtung der
+            Hochschule für Verwaltungswissenschaften Speyer wurde vom LT am 10.7.1950 beschlossen
+            (LT RLP, 1. WP, Drucks. Abt. I, S. 2138 und S. 2230-2232; Protokoll der Beratungen des
+            Kulturpolitischen Ausschusses vom 20.4.1950 in Best. 860 Nr. 4534, S. 757-766) und am
+            30.8.1950 ausgefertigt (GVBl. I 1950, S. 265). Zum Schriftwechsel des Rektorats der
+            Akademie mit ORPräs Bögler vgl. LASp Best. H. 13 Nr. 24, S. 354 ff., ferner zur
+            Verwaltungsakademie allg. ebd. Best. H 13 Nr. 262. Vgl. Mathy, Hochschulen, S. 386-390;
+            Knipping, Umerziehung; Heinemann, Hochschuloffiziere, S. 191 f.; 25 Jahre Hochschule;
+            Becker, Entwicklung; Morsay, Berufungspolitik; ders., Hochschule. </note>
+          <note type="comment" xml:id="note34" n="34"> Verfügung Nr. 194 vom 11.1.1947 (Journal
+            Officiel 1947, S. 538-540). Die Landesregierung hatte erst durch diese Veröffentlichung
+            von der Anordnung Kenntnis erhalten, wie der MinPräs mit Schreiben vom 30.1.1947
+            kritisierte (Best. 860 Nr. 1006, S. 275). </note>
+          <note type="comment" xml:id="note35" n="35"> Zur Verwaltungsschule Cochem vgl. Best. 860
+            Nr. 1150, Nr. 1192, Nr. 1197 und Nr. 1208, Best. 910 Nr. 2168, Bl. 36-38, Best. 700,145
+            Nr. 539-6, Best. 700,155 Nr. 19 und Best. 700,177 Nr. 724 sowie Dollwet,
+            Verwaltungsschule. – Fortgang 95. MRS am 9.9.1948, TOP 14. </note>
+          <note type="comment" xml:id="note36" n="36"> Seine Bedenken formulierte der MinPräs mit
+            Schreiben vom 30.1.1947 an den GenGouv (Best. 860 Nr. 1006, S. 275 und S. 281). –
+            Fortgang 12. MRS am 31.1.1947, TOP 3 </note>
+          <note type="comment" xml:id="note37" n="37"> Zuletzt 10. MRS am 17.1.1947, TOP E. </note>
+          <note type="comment" xml:id="note38" n="38"> Siehe oben Anm. 1, Anlage 1. Gemäß diesem
+            Beschluss betrugen die jährlichen Gehälter des MinPräs RM 26.000,--, der Minister RM
+            24.000,--, der Ministerialdirektoren RM 22.000,--, der Ministerialdirigenten RM
+            18.000,--. An Dienstaufwandsentschädigungen standen dem MinPräs RM 15.000,--, den
+            Ministern je RM 9.000,-- und den Ministerialdirektoren und Ministerialdirigenten die
+            gleichen wie den Regierungspräsidenten zu. Punkt 3 betraf den Wohnungsgeldzuschuss, der
+            sich nach der Tarifklasse richtete: „Der Ministerpräsident erhält keinen
+            Wohnungsgeldzuschuß, dafür wird ihm die Dienstwohnung Eichendorffstr. 28 einschließlich
+            Strom, Brand und Wasser gestellt. Da durch diese Regelung die Ministerialdirektoren
+            unter der bisherigen Besoldung des Oberregierungspräsidenten in Neustadt und des
+            Präsidenten des Rechnungshofes von Rheinland-Pfalz ständen, wird der Ministerpräsident
+            gebeten, beiden Herren nahe zu legen, dass sie sich mit dem um RM 2.000,-- geringeren
+            Gehalt der Ministerialdirektoren zufrieden geben, daneben aber ihre bisherige
+            Dienstaufwandsentschädigung erhalten sollen.” – Fortgang 33. MRS am 22.7.1947, TOP
+            4.</note>
+          <p/>
+        </div>
+        <div type="agenda_sub_item" xml:id="top_qyj_z1y_rfc">
+          <head>5. Erlass von Landesverordnungen <hi type="comment" rend="sup"><ptr target="#note39"
+              /></hi></head>
+          <p>Nach eingehenden Beratungen wurden folgende Landesverordnungen einstimmig
+            beschlossen:</p>
+          <list type="ordered">
+            <item>1. Landesverordnung über die Errichtung eines Landesversicherungsamtes, <hi
+                type="comment" rend="sup"><ptr target="#note40"/></hi></item>
+            <item>2. Landesverordnung über das Verfahren in der Sozialversicherung und die
+              Wiedereinrichtung von Spruchkammern bei den Oberversicherungsämtern, <hi
+                type="comment" rend="sup"><ptr target="#note41"/></hi></item>
+            <item>3. Landesverordnung über die Wiedereinführung der Selbstverwaltung in der sozialen
+              Krankenversicherung, <hi type="comment" rend="sup"><ptr target="#note42"/></hi></item>
+            <item>4. Landesverordnung über Vereinfachung und Vereinheitlichung des Leistungs- und
+              Beitragsrechts in der Krankenversicherung, <hi type="comment" rend="sup"><ptr
+                  target="#note43"/></hi></item>
+            <item>5. Landesverordnung über die Einbeziehung der Arbeiter und Angestellten der
+              Dachschiefer-Industrie in die knappschaftliche Versicherung, <hi type="comment"
+                rend="sup"><ptr target="#note44"/></hi></item>
+            <item>6. Landesverordnung über die Zusatzversicherung in der Krankenversicherung der
+              Rentner, <hi type="comment" rend="sup"><ptr target="#note45"/></hi></item>
+            <item>7. Landesverordnung über eine Änderung des Mutterschutzgesetzes im Verhältnis zur
+              sozialen Krankenversicherung, <hi type="comment" rend="sup"><ptr target="#note46"
+                /></hi></item>
+            <item>8. Landesverordnung über Maßregelung von Ehrenbeamten und von Gliedern kommunaler
+              Körperschaften. <hi type="comment" rend="sup"><ptr target="#note47"/></hi></item>
+          </list>
+        </div>
+        <div type="agenda_sub_item" xml:id="top_mpm_dby_rfc">
+          <head>6. Errichtung eines Gebäudes für die Landesversammlung von Rheinland-Pfalz <hi
+              type="comment" rend="sup"><ptr target="#note48"/></hi></head>
+          <p>Dieser Punkt wurde abgesetzt, um den Ministern Gelegenheit zu geben, nach Eintritt von
+            Tauwetter das vorgeschlagene Projekt am alten Schloß und den Plan bezgl. des Lesevereins
+            an Ort und Stelle zu besichtigen.</p>
+        </div>
+        <note type="comment" xml:id="note39" n="39"> Arbeitsminister Röhle hatte diese
+          Landesverordnungen allen Regierungsmitgliedern um den 25.1.1947 zukommen lassen
+          (Durchschläge mit undatiertem Anschreiben und Eingangsstempel des Ministers der Justiz vom
+          25.1.1947 in Best. 900 Nr. 12). Die Entwürfe Nr. 1-6 gründen sich jeweils auf Entwürfe von
+          Präsidialerlassen, die der damalige PräsDir Röhle am 26.11.1946 dem damaligen OPräs Boden
+          vorgelegt hatte, der dazu am 2.12.1946 verfügte: „Zurückstellen fürs Land” ( Best. 700,155
+          Nr. 16, S. 17; vgl. Brommer, Landesregierung, S. 516 f.). Alle nachfolgend beschlossenen
+          Landesverordnungen waren vom Staatsministerium mit Schreiben vom 3.2.1947 dem GenGouv zur
+          Genehmigung vorgelegt worden (Best. 860 Nr. 1082, S. 5-8). Da sie nicht im GVBl. I der
+          Jahre 1947-1950 nachweisbar sind, wurden sie offenbar nicht in Kraft gesetzt. </note>
+        <note type="comment" xml:id="note40" n="40"> Frühere Fassung als „Präsidialerlass“ des OPräs
+          von Rheinland-Hessen-Nassau in Best. 700,155, Nr. 16, S. 19; französische Fassung in Best.
+          860 Nr. 1083, S. 659. </note>
+        <note type="comment" xml:id="note41" n="41"> Frühere Fassung als „Präsidialerlass“ des OPräs
+          von Rheinland-Hessen-Nassau in 700,155, Nr. 16, S. 21-23; französische Fassung in Best.
+          860 Nr. 1083, S. 665-667. Zu den Entwurfsarbeiten Best. 930 Nr. 14240; zu den
+          Spruchbehörden vgl. Best. 930 Nr. 14573; zu den Oberversicherungsämtern vgl. die Entwürfe
+          zu einer „Landesverfü-gung über die Behörden der Sozialversicherung“ vom März-September
+          1947, die dann in eine Verwaltungsverfügung (vom 15.9.1947) zur Zusammenlegung der
+          bestehenden Oberversicherungsämter Koblenz, Montabaur und Trier in einem einzigen
+          Oberversicherungsamt Koblenz umgewandelt wurde (Best. 930 Nr. 14655). – Vgl. 45. MRS am
+          29.9.1947, TOP 1, Punkt 7. </note>
+        <note type="comment" xml:id="note42" n="42"> Frühere Fassung als „Präsidialerlass“ des OPräs
+          von Rheinland-Hessen-Nassau in Best. 700,155, Nr. 16, S. 25-27; französische Fassung in
+          Best. 860 Nr. 1083, S. 661-663. Zu den Arbeiten am „Gesetz zur Wiederherstellung der
+          Selbstverwaltung in der Sozialversicherung“ ab September 1947 vgl. die TO der LT-Sitzung
+          am 30.9.1947 und dazu die 45. MRS am 29.9.1947, TOP 1/7 sowie Best. 860 Nr. 4031 und Best.
+          930 Nr. 4590. Zum Gesamtzusammenhang Hudemann, Sozialpolitik, S. 290-298. </note>
+        <note type="comment" xml:id="note43" n="43"> Frühere Fassung als „Präsidialerlass“ des OPräs
+          von Rheinland-Hessen-Nassau in Best. 700,155 Nr. 16, S. 29-33; französische Fassung in
+          Best. 860 Nr. 1083, S. 649-655. </note>
+        <note type="comment" xml:id="note44" n="44"> Frühere Fassung als „Präsidialerlass“ des OPräs
+          von Rheinland-Hessen-Nassau in Best. 700,155, Nr. 16, S. 35; korrigierter Entwurf einer
+          Lvfg. über die knappschaftliche Versicherungspflicht vom Dezember 1946/Januar 1947 in
+          Best. 930 Nr. 4652; französische Fassung in Best. 860 Nr. 1083, S. 645. Vgl. Best. 930 Nr.
+          4652 und (ab 1948) Nr. 4651 sowie (für die Überlieferung ab Juni 1947) Best. 950 Nr.
+          11328. </note>
+        <note type="comment" xml:id="note45" n="45"> Frühere Fassung als Präsidialerlass des OPräs
+          von Rheinland-Hessen-Nassau in Best. 700,155 Nr. 16, S. 37; Best. 930 Nr. 14240;
+          französische Fassung in Best. 860 Nr. 1083, S. 643. Die im GVBl. I 1948, S. 373
+          veröffentlichte LVO über die Krankenversicherung der Rentner vom 8.10.1948 erwähnt diese
+          LVO nicht; sie setzt vielmehr unverändert die Zusatzversicherung nach § 13 der VO vom
+          4.11.1941 (RGBl. I, S. 689) voraus; im Übrigen regelt sie darüber hinaus gehende Belange. </note>
+        <note type="comment" xml:id="note46" n="46"> Die französische Übersetzung des Entwurfs:
+          Best. 860 Nr. 1083, S. 657. Zur Durchführung des Mutterschutzgesetzes siehe Best. 930 Nr.
+          6841. </note>
+        <note type="comment" xml:id="note47" n="47"> Best. 860 Nr. 1083, S. 623-624 (weitere
+          Durchschläge ebd. S. 631-638, in Best. 880 Nr. 1622 sowie in Best. 900 Nr. 12). Vgl. die
+          redigierte Vorlage in Best. 880 Nr. 1622. Die Vorlage war mit Schreiben vom 18.12.1946 der
+          Militärregierung zugeleitet worden (ebd.). </note>
+        <note type="comment" xml:id="note48" n="48"> Zuletzt 10. MRS am 17.1.1947, TOP A. – Fortgang
+          62. MRS am 5.2.1948, TOP D. </note>
+      </div>
+    </body>
+  </text>
+</TEI>
