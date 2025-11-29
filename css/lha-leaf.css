@@ -1,34 +1,34 @@
-div[_tag = "label"] {
+label {
   display: inline;
 }
 
-div[_tag = "head"] {
+head {
   color: #871d33;
   font-size: larger;
   font-weight: bold;
   margin-top: 7px;
 }
 
-div[_tag = "front"] > div[_tag = "head"] {
+front > head {
   font-size: 2em;
   font-weight: normal;
 }
 
-div[_tag = "list"][type = "agenda"] {
+list[type = "agenda"] {
   background-color: whitesmoke;
   margin-bottom: 7px;
 }
 
-div[_tag = "item"] {
+item {
   display: list-item;
   margin-left: 1em;
 }
 
-div[_tag = "p"] {
+p {
   margin-bottom: 7px;
 }
 
-div[_tag = "note"] {
+note {
   border-left: 3px solid silver;
   color: grey;
   font-size: smaller;
