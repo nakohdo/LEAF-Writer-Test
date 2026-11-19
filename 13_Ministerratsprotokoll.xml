@@ -207,6 +207,7 @@
 	"id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?person_annotation_20251127153331607",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-11-27T14:33:31.607Z",
+	"dcterms:modified": "2026-11-19T10:51:42.077Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/nakohdo",
 		"@type": [
@@ -228,7 +229,7 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.9.0"
+			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/nakohdo/LEAF-Writer-Test/main/13_Ministerratsprotokoll.xml?person_annotation_20251127153331607#Selector",
@@ -246,7 +247,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.9.0"
+		"schema:softwareVersion": "4.3.2"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
